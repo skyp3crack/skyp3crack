@@ -6,7 +6,7 @@ Hi there! I'm **Muhammad Khalif Amin**, a dedicated Computer Engineer and AI Ful
 
 ## 🛠️ What I'm Up To
 
-* 🔭 **Current Focus:** I am rebuilding a modern, contactless Smart Restaurant Ordering System using Laravel 11, SQLite, and Tailwind CSS, featuring a real-time kitchen dashboard.
+* 🔭 **Current Focus:**  I am currently focused on architecting and implementing high-demand AI projects, bridging sophisticated Machine Learning models and Large Language Models (LLMs) with robust full-stack architectures to solve real-world problems.
 * 🌱 **Learning Path:** I am deeply immersed in GenAI orchestration, specifically mastering LangChain and architecting sophisticated AI Agents.
 * 👯 **Collaboration:** I am actively seeking to collaborate on projects involving the Model Context Protocol (MCP) and Agentic LLM platforms.
 * 💼 **Career Goal:** As a fresh graduate, I am actively seeking full-time opportunities as a Software Developer, Full-Stack Engineer, or AI Engineer where I can contribute to cutting-edge innovations.

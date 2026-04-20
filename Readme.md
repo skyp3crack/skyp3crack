@@ -1,6 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on a modern, contactless Smart Restaurant Ordering System using Laravel 11 and Tailwind CSS.<br><br>👯 I’m Fresh graduate looking for fulltime job as software developer/fullstack/ai engineer or related field<br><br>👯 Im looking to collaborate on AI-driven innovations or Full-Stack projects, specifically around Model Context Protocol (MCP) and Agentic LLM platforms.<br><br>🌱 I’m currently learning advanced GenAI orchestration, specifically mastering LangChain and building sophisticated AI Agents.<br><br>💬 Ask me about AI-powered personality analysis , pharmaceutical demand forecasting using Machine Learning , or building ingredient conflict detectors with Claude 3.5 Sonnet.<br><br>⚡ Fun fact I am officially a registered Graduate Engineer (Computer branch) with the Board of Engineers Malaysia.
+Hi there! I'm Muhammad Khalif Amin, a dedicated Computer Engineer and AI Full-Stack Developer passionate about bridging the gap between sophisticated Machine Learning models and seamless user experiences. I recently graduated with a Bachelor of Computer Engineering (Hons) from UniMAP (CGPA 3.44) and am now looking to apply my expertise in a professional environment.
 
+## 🛠️ What I'm Up To
+🔭 Current Focus: I am rebuilding a modern, contactless Smart Restaurant Ordering System using Laravel 11, SQLite, and Tailwind CSS, featuring a real-time kitchen dashboard.
+🌱 Learning Path: I am deeply immersed in GenAI orchestration, specifically mastering LangChain and architecting sophisticated AI Agents.
+👯 Collaboration: I am actively seeking to collaborate on projects involving the Model Context Protocol (MCP) and Agentic LLM platforms.
+💼 Career Goal: As a fresh graduate, I am actively seeking full-time opportunities as a Software Developer, Full-Stack Engineer, or AI Engineer where I can contribute to cutting-edge innovations.
+
+# 🏆 Key Achievements
+Milestone,Description
+BEM Registered,Officially a registered Graduate Engineer (Computer branch) with the Board of Engineers Malaysia.
+Award Winner,2nd Runner Up at the Gamuda AI Academy Cohort 4 Demo Day for Project Aura.+1
+Hackathon Veteran,Developed Cosmatiqa for the Cursor x Anthropic Hackathon 2025 in just 24 hours.+1
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kxh_amn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-k-b95018139/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalifamin99@gmail.com) 

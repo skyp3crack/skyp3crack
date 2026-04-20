@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there! I'm **Muhammad Khalif Amin**, a dedicated Computer Engineer and AI Full-Stack Developer passionate about bridging the gap between sophisticated Machine Learning models and seamless user experiences. I recently graduated with a Bachelor of Computer Engineering (Hons) from Universiti Malaysia Perlis (UniMAP) with a CGPA of 3.44, and am now looking to apply my expertise in a professional environment.
+Hi there! I'm **Muhammad Khalif Amin**, a dedicated Computer Engineer and AI Full-Stack Developer passionate about bridging the gap between sophisticated Machine Learning models and seamless user experiences. I recently graduated with a Bachelor of Computer Engineering (Hons) from Universiti Malaysia Perlis (UniMAP) , and am now looking to apply my expertise in a professional environment.
 
 ---
 
